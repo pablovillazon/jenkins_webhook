@@ -3,6 +3,6 @@ Repo para generar eventos para el Jenkins
 
 - Paso 1: Webhook habilitado OK
 - Paso 2: Repositorio creado y clonado localmente OK
-- Paso 3: Webhook configurado en Github OK, probando.....
-- Paso 4: Validar secret in jenkins with username and password...
-- Paso 5:
+- Paso 3: Webhook configurado en Github OK, probando OK
+- Paso 4: Validar secret in jenkins with username and password OK
+- Paso 5: Validar el Job en Jenkis despues de hacer push al repo
